@@ -2,9 +2,8 @@
 *Player:* Jared Swoboda
 
 #### Attributes:
-+---------+---------+
 Attribute | Die 
-+:--------|--------:+
+:--------|--------:
 Agility | 		
  Alertness | d10 
  Intelligence | 
