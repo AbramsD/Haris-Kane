@@ -2,14 +2,14 @@
 *Player:* Jared Swoboda
 
 #### Attributes:
-| Attribute | Die |
-|:--------|--------:|
-| Agility | |		
-| Alertness | d10 |
-| Intelligence | |
-| Strength | |
-| Vitality | |
-| Willpower | d6 |
+Attribute | Die 
+:--------|--------:
+Agility | 		
+ Alertness | d10 
+ Intelligence | 
+ Strength | 
+ Vitality | 
+ Willpower | d6 
 
 ##### Descriptors
 * Alertness: Alertness has been present since birth, being able to read people is how he's gotten ahead in life. He picks up on faint clues, tells, and when they are lieing/telling the truth.  He was a simple security officer, but he picked up on the nervesnous of someone trying to get through security and identifed another corporate spy.  This lead to him being transitioned into espianage training. 
