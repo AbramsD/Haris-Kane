@@ -16,14 +16,15 @@
 
 
 #### Roles
- * Face: d10
+| Face | Tech | Sneak | Muscle | Brains |
+|------|------|-------|--------|--------|
+| D10  | D4   | D6    | D8     | D4     |
 
 ##### Descriptors
 * Face:  His alertness plus his training lead to a lot of confidence.  This interned gave him the abilty to turn other peoples opinions around him.  He could read them and their emotions and then use that knowledge to direct his actions and behavior, thus altering their perceptions of him.  This ability was used during on his first mission where he had to convince an entrepenure that he was a potential investor in order to gain access to the entrepenure's technical records.
 
 
-
-#### Distinctions
+#### Distinctions (D8 or D4+PP)
 - Overly Confident
 	* Prone to gamble and take overt risks
 	* Desisiveness means moving towards action and getting things done.
@@ -33,6 +34,8 @@
 	* Has the right tool for the job
 	* Glitchy tech that doesn't always work as needed when it's needed
 
-#### Specialties
-	
+#### Specialties (D6)
+
+- Hand to Hand Combat
+- Impersonation
 
